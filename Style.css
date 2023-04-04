@@ -1,0 +1,35 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    margin: 0;
+    background-color: rgb(165, 240, 165);
+}
+
+header {
+    background-color: rgb(78, 189, 105);
+    color: rgb(11, 100, 33);
+    padding: 3rem 2rem;
+    border-bottom: 5px solid rgb(5, 39, 7);
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    margin: auto 0;
+}
+
+iframe{
+    min-width: 60%;
+    min-height: 400px;
+}
