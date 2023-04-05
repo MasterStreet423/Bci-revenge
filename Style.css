@@ -30,6 +30,6 @@ h1{
 }
 
 iframe{
-    min-width: 1280px;
-    min-height: 700px;
+    min-width: 100%;
+    min-height: 500px;
 }
